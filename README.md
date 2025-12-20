@@ -5,10 +5,10 @@
 
 ## **Stack:** ##
 
-![C Badge](https://img.shields.io/badge/C-00599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![Immagine non disponibile](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
-![Immagine non disponibile](https://img.shields.io/badge/java-f89820?style=for-the-badge "Java")
-![Immagine non disponibile](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "MarkDown")
-![Immagine non disponibile](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Immagine non disponibile](http://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Immagine non disponibile](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
