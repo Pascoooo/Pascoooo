@@ -8,3 +8,6 @@
 ![Immagine non disponibile](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
 ![Immagine non disponibile](https://img.shields.io/badge/java-f89820?style=for-the-badge "Java")
 ![Immagine non disponibile](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "MarkDown")
+![Immagine non disponibile](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Immagine non disponibile](http://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Immagine non disponibile](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
